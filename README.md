@@ -1,1 +1,2 @@
-# spacemacs
+
+spacemacs开发平台搭建说明
